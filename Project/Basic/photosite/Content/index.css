@@ -1,0 +1,16 @@
+
+nav {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    font-weight: bolder;
+    text-transform: uppercase;
+    border-bottom: 2px solid grey;
+    margin-left: calc(10%/6);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+img {
+    width: 30%;
+    margin: calc(10%/6);
+    vertical-align: top;
+}
