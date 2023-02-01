@@ -1,2 +1,2 @@
 # wpfordummy
-# Creating Web projects to learn WebProgramming
+# Learning Web Development
