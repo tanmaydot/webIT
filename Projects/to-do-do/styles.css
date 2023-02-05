@@ -172,7 +172,7 @@ form {
     margin-bottom: 1.25em;
 }
 
-.tasks::after::after{
+.tasks::after {
     content: "";
     position: absolute;
     right: 0;
@@ -222,7 +222,7 @@ form {
     background: currentColor;
     transform: scaleX(0);
     transform-origin: right;
-    transition: transform 300ms ease-in-out;
+    transition: transform 150ms ease-in-out;
 }
 
 [type="checkbox"]:checked + label {
@@ -239,4 +239,3 @@ form {
     bottom: -35px;
     color: var(--clr-light);
 }
-
