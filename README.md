@@ -1,11 +1,15 @@
 # webIT
 
-## Learning Web Development & Stuff
+## A normal repository for all my web projects
 
-Used Languages so far
+---
+
+### Languages Used
 
 - JAVASCRIPT
 
 - CSS
 
 - HTML
+
+---
