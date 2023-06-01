@@ -1,15 +1,7 @@
 # webIT
 
-## A normal repository for all my web projects
-
----
-
-### Languages Used
+ Languages Used
 
 - JAVASCRIPT
-
 - CSS
-
 - HTML
-
----
