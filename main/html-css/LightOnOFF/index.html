@@ -28,6 +28,7 @@
       let bulb = document.getElementById("bulb");
       btn.addEventListener("click", toggleBulb);
       function toggleBulb(e) {
+        e.preventDefault()
         if (btn.textContent.includes("On")) {
           bulb.src = "bulb-on.jpg";
           btn.textContent = "Turn Off";
