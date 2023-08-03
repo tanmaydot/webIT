@@ -1,7 +1,7 @@
 # webIT
 
- Languages Used
+ Languages Used So Far
 
-- JAVASCRIPT
-- CSS
 - HTML
+- CSS
+- JAVASCRIPT
